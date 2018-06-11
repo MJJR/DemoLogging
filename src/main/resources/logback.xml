@@ -11,7 +11,7 @@
 	<appender name="FILE" class="ch.qos.logback.core.FileAppender">
 	
 		<!-- redirection vers un ordinateur bien précis /!\ -->
-		<file>C:\Users\matth\Documents\workspace-sts-3.8.4.RELEASE\demo.logging</file>
+		<file>C:\Users\matth\Documents\workspace-sts-3.8.4.RELEASE\demo.logging\log</file>
 		
 		<append>true</append>
 		<immediateFlush>true</immediateFlush>
